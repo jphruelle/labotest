@@ -1,0 +1,1 @@
+//modelexample a configurer
